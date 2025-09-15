@@ -1,0 +1,3 @@
+C:/lab1/lab/lab2/build/x64-debug/CMakeFiles/lab.dir
+C:/lab1/lab/lab2/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/lab1/lab/lab2/build/x64-debug/CMakeFiles/rebuild_cache.dir
